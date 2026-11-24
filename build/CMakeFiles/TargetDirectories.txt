@@ -1,0 +1,4 @@
+C:/the main folder/Desktop/L5_FINAL/build/CMakeFiles/OpenGL.SharedModule.dir
+C:/the main folder/Desktop/L5_FINAL/build/CMakeFiles/GLProject.dir
+C:/the main folder/Desktop/L5_FINAL/build/CMakeFiles/edit_cache.dir
+C:/the main folder/Desktop/L5_FINAL/build/CMakeFiles/rebuild_cache.dir
